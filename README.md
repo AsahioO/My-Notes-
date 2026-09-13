@@ -3,7 +3,7 @@
 Tus notas, bonitas y siempre a la mano. Rápida, privada y sin cuentas.
 
 [<img alt="Descargar APK" src="https://img.shields.io/github/v/release/AsahioO/My-Notes-?style=for-the-badge&label=Descargar%20APK&color=coral" height="32">](https://github.com/AsahioO/My-Notes-/releases/latest)
-[<img alt="Obtén la app en Obtainium" src="assets/badges/badge_obtainium.png" height="32">](obtainium://add/https://github.com/AsahioO/My-Notes-)
+[<img alt="Obtén la app en Obtainium" src="assets/badges/badge_obtainium.png" height="54">](obtainium://add/https://github.com/AsahioO/My-Notes-)
 
 > Pulsa arriba para descargar la última versión. Gratis, sin registro.
 > ¿Usas [Obtainium](https://github.com/ImranR98/Obtainium)? Pulsa el segundo botón para agregar My Notes y recibir cada actualización automáticamente en tu celular.
