@@ -106,6 +106,6 @@ Tus notas son tuyas. Viven en tu teléfono, no se suben a ningún servidor. Si b
 
 ## Autor
 
-Hecha por **David Pérez (AsahioO)**.
+Hecha por **AsahioO**.
 
 ¿Te gusta? Déjale una ⭐ al repo, ayuda mucho. Si algo falla, cuéntamelo en [Issues](https://github.com/AsahioO/My-Notes-/issues).
