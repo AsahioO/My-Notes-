@@ -5,6 +5,47 @@ Tus notas, bonitas y siempre a la mano. Rápida, privada y sin cuentas.
 [![Descargar APK](https://img.shields.io/badge/Descargar-APK%20v0.3.4-coral?style=for-the-badge)](https://github.com/AsahioO/My-Notes-/releases/latest)
 > Pulsa arriba para descargar la última versión. Gratis, sin registro.
 
+## Capturas
+
+<table>
+<tr>
+<td align="center">
+<img src="capturas/01_dashboard.png" width="260"><br>
+<sub>Dashboard con colores y categorías</sub>
+</td>
+<td align="center">
+<img src="capturas/02_nota_detalle.png" width="260"><br>
+<sub>Edición de nota con formato</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="capturas/03_calendario.png" width="260"><br>
+<sub>Calendario y recordatorios</sub>
+</td>
+<td align="center">
+<img src="capturas/05_checklist.png" width="260"><br>
+<sub>Checklist para tachar tareas</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="capturas/07_selector_color_categoria.png" width="260"><br>
+<sub>Panel de color + categoría</sub>
+</td>
+<td align="center">
+<img src="capturas/08_nota_color_verde.png" width="260"><br>
+<sub>Cambia de color al instante</sub>
+</td>
+</tr>
+</table>
+
+### Video de demostración
+
+* [Abrir y cerrar una nota](capturas/videos/abrir_y_cerrar.mp4) — la animación al entrar y salir de una nota.
+* [Scroll por el dashboard](capturas/videos/03_scroll_dashboard.mp4) — recorrido por las notas con distintos colores y categorías.
+* [Marcar un checklist](capturas/videos/02_checklist_toggle.mp4) — tachar tareas en tiempo real.
+
 ## ¿Qué es?
 
 My Notes es una app de notas para Android pensada para el día a día: apuntar rápido, ordenar sin esfuerzo y encontrar todo al instante. Todo se guarda en tu teléfono, funciona sin internet y sin crear cuentas.
