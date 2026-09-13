@@ -42,9 +42,22 @@ Tus notas, bonitas y siempre a la mano. Rápida, privada y sin cuentas.
 
 ### Video de demostración
 
-* [Abrir y cerrar una nota](capturas/videos/abrir_y_cerrar.mp4) — la animación al entrar y salir de una nota.
-* [Scroll por el dashboard](capturas/videos/03_scroll_dashboard.mp4) — recorrido por las notas con distintos colores y categorías.
-* [Marcar un checklist](capturas/videos/02_checklist_toggle.mp4) — tachar tareas en tiempo real.
+<table>
+<tr>
+<td align="center">
+<img src="capturas/videos/abrir_y_cerrar.gif" width="260"><br>
+<sub>Abrir y cerrar una nota</sub>
+</td>
+<td align="center">
+<img src="capturas/videos/03_scroll_dashboard.gif" width="260"><br>
+<sub>Scroll por el dashboard</sub>
+</td>
+<td align="center">
+<img src="capturas/videos/02_checklist_toggle.gif" width="260"><br>
+<sub>Marcar un checklist</sub>
+</td>
+</tr>
+</table>
 
 ## ¿Qué es?
 
