@@ -2,40 +2,38 @@
 
 Tus notas, bonitas y siempre a la mano. Rápida, privada y sin cuentas.
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK%20v0.3.4-coral?style=for-the-badge)](https://github.com/AsahioO/My-Notes-/releases/latest)
+[![Descargar APK](https://img.shields.io/github/v/release/AsahioO/My-Notes-?style=for-the-badge&label=Descargar%20APK&color=coral)](https://github.com/AsahioO/My-Notes-/releases/latest)
 > Pulsa arriba para descargar la última versión. Gratis, sin registro.
 
 ## Capturas
 
 <table>
 <tr>
-<td align="center">
-<img src="capturas/01_dashboard.png" width="260"><br>
-<sub>Dashboard con colores y categorías</sub>
+<td align="center" valign="top" width="33%">
+<img src="capturas/01_dashboard.png" width="230"><br>
+<sub><b>Dashboard</b><br>colores y categorías</sub>
 </td>
-<td align="center">
-<img src="capturas/02_nota_detalle.png" width="260"><br>
-<sub>Edición de nota con formato</sub>
+<td align="center" valign="top" width="33%">
+<img src="capturas/02_nota_detalle.png" width="230"><br>
+<sub><b>Edición</b><br>formato enriquecido</sub>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="capturas/03_calendario.png" width="260"><br>
-<sub>Calendario y recordatorios</sub>
-</td>
-<td align="center">
-<img src="capturas/05_checklist.png" width="260"><br>
-<sub>Checklist para tachar tareas</sub>
+<td align="center" valign="top" width="33%">
+<img src="capturas/03_calendario.png" width="230"><br>
+<sub><b>Calendario</b><br>recordatorios</sub>
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="capturas/07_selector_color_categoria.png" width="260"><br>
-<sub>Panel de color + categoría</sub>
+<td align="center" valign="top" width="33%">
+<img src="capturas/05_checklist.png" width="230"><br>
+<sub><b>Checklist</b><br>tacha tus tareas</sub>
 </td>
-<td align="center">
-<img src="capturas/08_nota_color_verde.png" width="260"><br>
-<sub>Cambia de color al instante</sub>
+<td align="center" valign="top" width="33%">
+<img src="capturas/07_selector_color_categoria.png" width="230"><br>
+<sub><b>Color + categoría</b><br>en un mismo panel</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<img src="capturas/08_nota_color_verde.png" width="230"><br>
+<sub><b>Recolor al instante</b><br>la misma nota, otro color</sub>
 </td>
 </tr>
 </table>
@@ -44,16 +42,16 @@ Tus notas, bonitas y siempre a la mano. Rápida, privada y sin cuentas.
 
 <table>
 <tr>
-<td align="center">
-<img src="capturas/videos/abrir_y_cerrar.gif" width="260"><br>
+<td align="center" valign="top" width="33%">
+<img src="capturas/videos/abrir_y_cerrar.gif" width="230"><br>
 <sub>Abrir y cerrar una nota</sub>
 </td>
-<td align="center">
-<img src="capturas/videos/03_scroll_dashboard.gif" width="260"><br>
+<td align="center" valign="top" width="33%">
+<img src="capturas/videos/03_scroll_dashboard.gif" width="230"><br>
 <sub>Scroll por el dashboard</sub>
 </td>
-<td align="center">
-<img src="capturas/videos/02_checklist_toggle.gif" width="260"><br>
+<td align="center" valign="top" width="33%">
+<img src="capturas/videos/02_checklist_toggle.gif" width="230"><br>
 <sub>Marcar un checklist</sub>
 </td>
 </tr>
